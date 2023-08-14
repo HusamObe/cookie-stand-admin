@@ -1,3 +1,22 @@
+## Lab 37 : Cookie Stand API
+
+### Author: Husam Hasan
+
+#### Description : Next.js and Tailwind style
+
+
+### Run
+
+> npm run dev
+
+#### requirements:
+```
+pip freeze > requirements.txt
+```
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
